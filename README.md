@@ -5,3 +5,7 @@ Autoreger premium accounts PornHub
 ```pip install selenium```
 
 Остальные модули - стандартные
+
+# Аккаунты
+Каждый аккаунт имеет 14 дней премиума!
+После регистрации данные сохраняются в файле `accounts.txt`
