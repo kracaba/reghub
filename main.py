@@ -45,7 +45,6 @@ def create_thread(amount):
     for t in range(amount):
         t = Thread(target=main, args=(generate_data(),))
         t.start()
-        t.join()
 
 
 if __name__ in '__main__':
